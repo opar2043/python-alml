@@ -1,0 +1,21 @@
+id,name,department,cgpa,age,hobby,aim,profession,isPaid,gender,city
+1,Aarav Sharma,CSE,3.85,20,Cricket,Become a Data Scientist,Data Scientist,Yes,Male,Delhi
+2,Diya Verma,IT,3.76,21,Reading,Work in AI research,AI Engineer,No,Female,Bengaluru
+3,Rohan Patel,EEE,3.58,19,Football,Design smart systems,Electrical Engineer,Yes,Male,Ahmedabad
+4,Sneha Iyer,Civil,3.92,22,Sketching,Become a Structural Engineer,Structural Engineer,Yes,Female,Chennai
+5,Aditya Roy,ME,3.64,20,Gaming,Start an automobile startup,Mechanical Engineer,No,Male,Kolkata
+6,Meera Nair,BBA,3.81,21,Dancing,Run a business consultancy,Business Consultant,Yes,Female,Hyderabad
+7,Krishna Singh,CSE,3.69,19,Chess,Develop cybersecurity tools,Cybersecurity Analyst,No,Male,Patna
+8,Pooja Reddy,IT,3.88,20,Photography,Build cloud applications,Cloud Engineer,Yes,Female,Pune
+9,Nikhil Kumar,EEE,3.54,21,Music,Work in renewable energy,Power Systems Engineer,No,Male,Jaipur
+10,Ananya Das,Civil,3.73,22,Traveling,Work on sustainable infrastructure,Civil Engineer,Yes,Female,Coimbatore
+11,Harsh Mehta,ME,3.67,20,Swimming,Create smart robotics,Robotics Engineer,No,Male,Surat
+12,Aisha Khan,BBA,3.95,23,Painting,Become a startup founder,Entrepreneur,Yes,Female,Delhi
+13,Yash Gupta,CSE,3.78,21,Volleyball,Build software for healthcare, Engineer,Yes,Male,Noida
+14,Sanvi Joshi,IT,3.9,20,Blogging,Work as a product manager,,Yes,Female,Mumbai
+15,Arjun Nair,EEE,3.61,22,Running,Work in embedded systems,Embedded Engineer,No,Male,Thiruvananthapuram
+16,Tanvi Shah,Civil,3.84,21,Hiking,Become a project manager,Construction Manager,Yes,Female,
+17,Veer Malhotra,ME,3.72,19,Table Tennis,Design eco-friendly machines,Mechanical Design Engineer,No,Male,Chandigarh
+18,Pragya Sinha,BBA,3.87,22,Reading,Lead a marketing team,Marketing Manager,Yes,Female,Lucknow
+19,Ritwik Das,CSE,3.7,20,Coding,Become a full-stack developer,Full Stack Developer,Yes,Male,Guwahati
+20,Mahima Rao,IT,,21,Learning Languages,Work in data analytics,Data Analyst,Yes,Female,Bhubaneswar
