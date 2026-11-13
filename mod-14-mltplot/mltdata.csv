@@ -1,0 +1,13 @@
+month,sales,advertising_spend,study_hours,exam_score,employee_salary,department
+Jan,12000,1200,2,45,25000,IT
+Feb,15000,1500,3,52,30000,HR
+Mar,13500,1300,4,60,28000,Sales
+Apr,18000,1800,5,68,35000,IT
+May,21000,2100,2,48,40000,Marketing
+Jun,19500,1900,6,75,32000,HR
+Jul,23000,2300,7,82,45000,Sales
+Aug,25000,2500,3,55,38000,IT
+Sep,22000,2200,8,90,50000,Marketing
+Oct,27000,2700,5,72,42000,HR
+Nov,30000,3000,9,95,55000,Sales
+Dec,32000,3200,6,80,48000,IT
