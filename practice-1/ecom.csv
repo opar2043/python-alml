@@ -1,0 +1,16 @@
+order_id,product,category,quantity,unit_price,discount,customer_age,city
+1001,Laptop,Electronics,2,60000,5,25,Dhaka
+1002,Phone,Electronics,3,25000,10,30,London
+1003,Shirt,Fashion,5,1200,5,22,Dhaka
+1004,Shoes,Fashion,2,3500,10,28,New York
+1005,Tablet,Electronics,1,30000,5,35,Toronto
+1006,Watch,Accessories,4,5000,15,26,Dhaka
+1007,Headphone,Electronics,3,2500,5,32,London
+1008,Jeans,Fashion,4,1800,10,24,New York
+1009,Bag,Accessories,2,4000,5,29,Toronto
+1010,Phone,Electronics,2,25000,10,31,Dhaka
+1011,Shirt,Fashion,6,1200,5,23,London
+1012,Laptop,Electronics,1,60000,10,40,New York
+1013,Watch,Accessories,3,5000,5,27,Dhaka
+1014,Shoes,Fashion,3,3500,10,34,Toronto
+1015,Headphone,Electronics,5,2500,15,21,London
